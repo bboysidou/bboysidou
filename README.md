@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm SIDALI target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Full-stack Mobile & Web Developer from Algeria &#x1F1E9; &#x1F1FF;</h3>
+<h1 align="center">Hi 👋, I'm SIDALI</h1>
+<h3 align="center">A passionate Full-stack Mobile & Web Developer from Algeria &#x1F1E9; &#x1F1FF</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -27,10 +26,10 @@ Saurabh</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
    
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/bboysidou">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/></a>
    
 		 <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sidalidev/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"/></a>
 
       </div>
 
